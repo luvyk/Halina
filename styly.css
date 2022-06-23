@@ -1,0 +1,21 @@
+﻿body {
+    background-color: black;
+    font-family: 'Book Antiqua';
+    color: lightgray;
+    text-align: center;
+}
+h1 {
+    font-size: 3.5em;
+    padding: 5px;
+
+}
+a {
+    color:lightgrey;
+}
+p {
+padding-left: 350px;
+padding-right: 350px;
+}
+tr,th {
+	border:2px solid white;
+}
